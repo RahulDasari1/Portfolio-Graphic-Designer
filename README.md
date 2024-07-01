@@ -4,7 +4,8 @@ Welcome to Rahul Dasari's portfolio website! This site showcases the diverse ski
 
 ![image](https://github.com/RahulDasari1/Portfolio-Graphic-Designer/assets/101777162/276230b1-eac2-42af-a142-2a2e5ed04b8d)
 
-![image](https://github.com/RahulDasari1/Portfolio-Graphic-Designer/assets/101777162/f702d651-aa38-48c6-9d8b-958b196e1952)
+![image](https://github.com/RahulDasari1/Portfolio-Graphic-Designer/assets/101777162/7ba217fd-d8d7-474a-a546-c47b258cfbdd)
+
 
 ## Table of Contents
 
